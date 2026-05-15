@@ -84,7 +84,7 @@ Sou um desenvolvedor em formação com algo que poucos têm: uma combinação re
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anemilton-Leitee&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anemilton-Leite&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" />
 </div>
 
 ---
